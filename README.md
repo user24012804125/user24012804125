@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Kyle👋👨‍💻</h1>
 <h3 align="center">A 3rd year Computer Science student at<a href="https://www.pup.edu.ph/" target="blank"> Polytechnic University of the Philippines</a>.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47bg7q9ry3e61t1hw57bgyoemzon548n29hgreo5gc&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47bg7q9ry3e61t1hw57bgyoemzon548n29hgreo5gc&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning Java, JavaScript, React
 - 📫 How to reach me kylealcantara0628@gmail.com
