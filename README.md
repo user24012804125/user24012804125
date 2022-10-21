@@ -12,5 +12,5 @@
 <a href="https://www.facebook.com/alcntrkyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle alcantara" height="30" width="40" /></a>
 <a href="https://instagram.com/alcntrkyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alcntrkyle" height="30" width="40" /></a>
 </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylealcantara0628&show_icons=true&locale=en&layout=compact" alt="kylealcantara0628" /></p>
+
+
